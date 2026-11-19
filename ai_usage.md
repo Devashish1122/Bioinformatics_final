@@ -1,4 +1,1 @@
-I used ChatGPT to discuss project ideas knowing which particular models fits best for my project and to also sort out 
-the project work in 3 week time so that i can complete it in time, I also verified the AI-assisted code by running each cell, 
-checking the data against the original GEO study, reviewing patient groups and model splits, inspecting the output files,
-and checking unexpected results.
+I used ChatGPT to discuss project ideas, select suitable machine learning models,and organize the project schedule on 3 weekly basis. I reviewed the suggested methods and checked the dataset information against the original GEO study. I will verify the remaining code by running the notebook in Google Colab, checking the sample labels and patient groups, and reviewing all generated results. I will document any corrections and AI assistance in this file.
